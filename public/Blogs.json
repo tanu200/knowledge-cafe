@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 12345,
+        "CoverImage": "https://images.unsplash.com/photo-1698611229097-cf0e2fc8ba81?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Title": "The Mystery of Moonlight Manor",
+        "Author": "Samantha Jones",
+        "AuthorImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=1528&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "PostedDate": "October 15, 2023",
+        "ReadingTime": 45 ,
+        "Hashtags": ["#Mystery", "#Manor", "#Thriller"]
+    },
+    {
+        "ID": 67890,
+        "CoverImage": "https://images.unsplash.com/photo-1657494546605-af6924d4e271?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Title": "A Journey Through Time",
+        "Author": "John Smith",
+        "AuthorImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "PostedDate": "September 5, 2023",
+        "ReadingTime": 60 ,
+        "Hashtags": ["#Adventure", "#TimeTravel", "#Exploration"]
+    },
+    {
+        "ID": 13579,
+        "CoverImage": "https://images.unsplash.com/photo-1696833981069-2025fdab8ade?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Title": "Cooking Delights: A Culinary Adventure",
+        "Author": "Emily Baker",
+        "AuthorImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "PostedDate": "July 20, 2023",
+        "ReadingTime":30 ,
+        "Hashtags": ["#Cooking", "#Culinary", "#Recipes"]
+    },
+    {
+        "ID": 24680,
+        "CoverImage": "https://plus.unsplash.com/premium_photo-1696273225791-bdab25451705?auto=format&fit=crop&q=80&w=1471&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Title": "The Art of Painting",
+        "Author": "Michael Turner",
+        "AuthorImage": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "PostedDate": "August 10, 2023",
+        "ReadingTime": 50 ,
+        "Hashtags": ["#Art", "#Painting", "#Creativity"]
+    },
+    {
+        "ID": 98765,
+        "CoverImage": "https://images.unsplash.com/photo-1693165075126-1ade93d55604?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Title": "Tech Trends 2023",
+        "Author": "David Wilson",
+        "AuthorImage": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=1376&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "PostedDate": "November 1, 2023",
+        "ReadingTime": 25,
+        "Hashtags": ["#Technology", "#Trends", "#Innovation"]
+    }
+]
